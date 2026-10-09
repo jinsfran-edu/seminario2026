@@ -1,0 +1,14 @@
+,Tipo,NoNulos,Nulos,PctNulos,Distintos,Ejemplo
+IDPedido,int64,830,0,0.0,830,10248
+IDCliente,object,830,0,0.0,89,VINET
+IDEmpleado,int64,830,0,0.0,9,5
+EnvioPor,int64,830,0,0.0,3,3
+FechaPedido,datetime64[ns],830,0,0.0,829,2019-07-04 16:58:00
+FechaRequerida,datetime64[ns],830,0,0.0,454,2019-08-01 00:00:00
+FechaEnvio,datetime64[ns],809,21,2.53,387,2019-07-16 00:00:00
+cantidad,int64,830,0,0.0,177,27
+val,float64,830,0,0.0,795,440.0
+NombreEmpresa,object,830,0,0.0,89,Vins et alcools Chevalier
+Ciudad,object,830,0,0.0,69,Reims
+Region,object,310,520,62.65,18,RJ
+Pais,object,830,0,0.0,21,Francia

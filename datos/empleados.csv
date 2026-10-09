@@ -1,0 +1,10 @@
+IDEmpleado,Apellido,Nombre,Puesto,Pais,JefeID
+1,Apellido1,Nombre1,Representante de Ventas,EE.UU.,
+2,Apellido2,Nombre2,Representante de Ventas,EE.UU.,2.0
+3,Apellido3,Nombre3,Representante de Ventas,EE.UU.,2.0
+4,Apellido4,Nombre4,Representante de Ventas,Reino Unido,2.0
+5,Apellido5,Nombre5,Representante de Ventas,EE.UU.,2.0
+6,Apellido6,Nombre6,Gerente de Ventas,Reino Unido,2.0
+7,Apellido7,Nombre7,Representante de Ventas,Reino Unido,2.0
+8,Apellido8,Nombre8,Representante de Ventas,Reino Unido,2.0
+9,Apellido9,Nombre9,Representante de Ventas,EE.UU.,2.0
